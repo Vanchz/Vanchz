@@ -1,20 +1,53 @@
-# Hi 👋, I'm Vanchz
+# Hey, I'm Vanchz 👋
 
-### A self-taught developer
+I'm a beginner developer currently learning **HTML, CSS, TypeScript, and C++**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vanchz&label=Profile views&color=0e75b6&style=flat" alt="Vanchz" /> </p>
+I'm still figuring out what I want to specialize in, so for now I'm focused on learning by building things. I'm starting with websites and plan to eventually make a game to improve my programming skills.
 
-- 🔭 I'm currently working on **A Portfolio Website**
+### 🛠️ Languages
 
-- 🌱 I'm currently learning **HTML, CSS, TypeScript and C++**
+**Currently learning / working with:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Vanchz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vanchz" height="30" width="40" /></a>
-<a href="https://youtube.com/@Vanchz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Vanchz" height="30" width="40" /></a>
-<a href="https://discord.gg/gxPATJKPK4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gxPATJKPK4" height="30" width="40" /></a>
+* HTML
+* CSS
+* TypeScript
+* C++
+
+### 🚀 Projects
+
+| Project                  | Description                                                          | Status         |
+| ------------------------ | -------------------------------------------------------------------- | -------------- |
+| 🌐 **Portfolio Website** | My personal portfolio website, built while learning web development. | 🟡 In Progress |
+
+### 🎮 Outside of Coding
+
+I'm also a small **YouTuber and streamer**, currently experimenting with content on **YouTube, Twitch, and Kick**.
+
+Outside of that, I enjoy gaming — especially **World of Tanks, Team Fortress 2**, and other games.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vanchz&theme=github_dark" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vanchz&theme=github_dark" height="180">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vanchz&theme=github-dark&hide_border=true" height="180">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vanchz&style=flat&color=blue" alt="Profile Views">
+</p>
+
+### 🌐 Find Me
+
+[![YouTube](https://img.shields.io/badge/YouTube-Vanchz-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@Vanchz)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/gxPATJKPK4)
+
+---
+
+> Still learning, still experimenting, and figuring out where coding takes me.
+
+
 
