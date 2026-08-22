@@ -8,10 +8,16 @@ I'm still figuring out what I want to specialize in, so for now I'm focused on l
 
 **Currently learning / working with:**
 
-* HTML
-* CSS
-* TypeScript
-* C++
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML"> HTML
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS"> CSS
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" alt="TypeScript"> TypeScript
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++"> C++
+</p>
+
 
 ### 🚀 Projects
 
