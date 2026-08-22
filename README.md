@@ -1,6 +1,6 @@
 # Hey, I'm Vanchz 👋
 
-I'm a beginner developer currently learning **HTML, CSS, TypeScript, and C++**.
+I'm a beginner developer currently learning **HTML, CSS, TypeScript, and Rust**.
 
 I'm still figuring out what I want to specialize in, so for now I'm focused on learning by building things. I'm starting with websites and plan to eventually make a game to improve my programming skills.
 
