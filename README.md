@@ -18,7 +18,7 @@ I'm still figuring out what I want to specialize in, so for now I'm focused on l
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" alt="TypeScript"> TypeScript
   &nbsp;&nbsp;
   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++"> C++
+   <img src="https://cdn.simpleicons.org/rust/F74C00" width="35" alt="Rust"> Rust
 </p>
 
 
