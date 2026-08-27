@@ -26,7 +26,7 @@ I'm still figuring out what I want to specialize in, so for now I'm focused on l
 
 | Project                  | Description                                                          | Status         |
 | ------------------------ | -------------------------------------------------------------------- | -------------- |
-| 🌐 **Portfolio Website** | My personal portfolio website, built while learning web development. | 🟡 In Progress |
+| 🌐 **Portfolio Website** | My personal portfolio website, built while learning web development. | 🟢 Complete |
 
 ### 🎮 Outside of Coding
 
