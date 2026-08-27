@@ -30,7 +30,7 @@ I'm still figuring out what I want to specialize in, so for now I'm focused on l
 
 ### 🎮 Outside of Coding
 
-I'm also a small **YouTuber and streamer**, currently experimenting with content on **YouTube, Twitch, and Kick**.
+I'm also a small **YouTuber and streamer**, currently experimenting with content on **YouTube, and Kick**.
 
 Outside of that, I enjoy gaming — especially **World of Tanks, Team Fortress 2**, and other games.
 
@@ -52,6 +52,7 @@ Outside of that, I enjoy gaming — especially **World of Tanks, Team Fortress 2
 ### 🌐 Find Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-Vanchz-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@Vanchz)
+[![Kick](https://img.shields.io/badge/Kick-Vanchz-green?style=for-the-badge\&logo=kick\&logoColor=white)](https://kick.com/vanchz)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/gxPATJKPK4)
 
 ---
