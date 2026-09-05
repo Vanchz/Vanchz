@@ -52,7 +52,7 @@ Outside of that, I enjoy gaming — especially **World of Tanks, Team Fortress 2
 ### 🌐 Find Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-Vanchz-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@Vanchz)
-[![Twitch](https://img.shields.io/badge/Twitch-Vanchz-purple?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/vanchz01)
+[![Twitch](https://img.shields.io/badge/Twitch-Vanchz-9146ff?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/vanchz01)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/gxPATJKPK4)
 
 ---
